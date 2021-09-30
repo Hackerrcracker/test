@@ -15,3 +15,4 @@
 6. Matrix
 
 <!-- <img src="Sushreesatarupa/DSA-60DAYS/IMG_20210710_014552.jpg"> -->
+ 1. <a href="https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/">activity selection</a><br>
